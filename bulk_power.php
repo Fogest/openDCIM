@@ -10,7 +10,7 @@ if(!$person->BulkOperations){
 
 //	Uncomment these if you need/want to set a title in the header
 //	$header=__("");
-$subheader=__("Bulk Network Importer");
+$subheader=__("Bulk Power Importer");
 
 $content = "";
 
